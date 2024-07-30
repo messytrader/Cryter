@@ -1,8 +1,15 @@
-# React + Vite
+Welcome to Crypter, your go-to solution for real-time cryptocurrency tracking! Whether you're a seasoned trader or a curious newcomer, Crypter provides you with the latest price updates, trends, and market insights on popular cryptocurrencies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:-
+Real-Time Updates: Get the latest price updates for major cryptocurrencies in real-time.
+Comprehensive Data: Access detailed information including market cap, 24-hour volume, and percentage changes.
+User-Friendly Interface: Intuitive and easy-to-navigate design for a seamless user experience.
+User can easily monitor with the help of chart 
 
-Currently, two official plugins are available:
+Technologies Used:-
+React,Css
+API: CoinGecko API for real-time cryptocurrency data
+Version Control: Git and GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+New features on the way
+
